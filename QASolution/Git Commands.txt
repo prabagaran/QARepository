@@ -17,3 +17,7 @@ git push origin master - > push to master branch
 To see status:
 
 git status
+
+
+
+Add the files to .gitignore so that they wont be tracked further. (see the .ignore file checkin along with this change)

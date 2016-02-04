@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace QACore
 {
-    public class Question
+    class User
     {
-
     }
 }
