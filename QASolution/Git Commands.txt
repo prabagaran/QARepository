@@ -26,4 +26,4 @@ Add the files to .gitignore so that they wont be tracked further. (see the .igno
 
 Creating a new CR:
 
- git push origin HEAD:refs/for/master
+ git push origin HEAD:refs/for/master  (https://review.openstack.org/Documentation/intro-quick.html#_creating_the_review)
