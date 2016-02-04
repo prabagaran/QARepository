@@ -21,3 +21,9 @@ git status
 
 
 Add the files to .gitignore so that they wont be tracked further. (see the .ignore file checkin along with this change)
+
+
+
+Creating a new CR:
+
+ git push origin HEAD:refs/for/master
