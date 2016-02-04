@@ -1,5 +1,7 @@
 
 
+//http://stackoverflow.com/questions/7047752/git-adding-files-to-repo
+
 To add new files:
 
 
