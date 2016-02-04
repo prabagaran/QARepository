@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QACore", "QAPlatform\QACore\QACore.csproj", "{274CC4CB-A7CC-45C8-AD93-8BE0C644C9DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QAPlatform", "QAPlatform", "{9DA5D389-E732-4FED-B3C4-80A679F83C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{274CC4CB-A7CC-45C8-AD93-8BE0C644C9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274CC4CB-A7CC-45C8-AD93-8BE0C644C9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274CC4CB-A7CC-45C8-AD93-8BE0C644C9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274CC4CB-A7CC-45C8-AD93-8BE0C644C9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{274CC4CB-A7CC-45C8-AD93-8BE0C644C9DE} = {9DA5D389-E732-4FED-B3C4-80A679F83C55}
+	EndGlobalSection
+EndGlobal
